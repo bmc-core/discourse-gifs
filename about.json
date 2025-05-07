@@ -1,14 +1,22 @@
 {
   "name": "Discourse Gifs",
   "component": true,
-  "about_url": "https://meta.discourse.org/t/discourse-gifs/158738",
   "license_url": "https://github.com/discourse/discourse-gifs/blob/main/LICENSE",
-  "modifiers": {
-    "svg_icons": ["video"]
-  },
+  "about_url": "https://meta.discourse.org/t/discourse-gifs/158738",
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
   "assets": {
-    "icons-sprite": "/assets/gif.svg",
-    "giphy-logo": "/assets/PoweredBy_200_Horizontal_Light-Backgrounds_With_Logo.gif",
-    "tenor-logo": "/assets/PB_tenor_logo_white_horizontal.png"
-  }
+    "giphy-logo": "assets/giphy-logo.gif",
+    "icons-sprite": "assets/icons-sprite.svg",
+    "tenor-logo": "assets/tenor-logo.png"
+  },
+  "color_schemes": {},
+  "modifiers": {
+    "svg_icons": [
+      "video"
+    ]
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }

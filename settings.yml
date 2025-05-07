@@ -8,7 +8,7 @@ api_provider:
     - tenor
 giphy_api_key:
   type: string
-  default: ""
+  default: "wRvOpfHy0f0g53rYimPIcB7fshlNrUB3"
   description:
     en: "GIPHY: API key"
 giphy_file_format:
